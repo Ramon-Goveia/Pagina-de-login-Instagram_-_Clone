@@ -5,6 +5,6 @@ Nesse projeto, são abordados os conceitos sobre CSS Flexbox e responsividade, u
 
 Tecnologias:
 
-HTML
-CSS
-JavaScript
+ - HTML
+ - CSS
+ - JavaScript
